@@ -1,0 +1,33 @@
+/* Örnek CSS Stilleri */
+.cartRecommendation {
+    list-style-type: none;
+    padding: 0;
+   
+  
+  }
+
+  .cartLi {
+    
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cartLiImg {
+    max-width: 100px; /* İstenilen genişliğe ayarlayın */
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .cartLia {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+
+  
+  
+  
