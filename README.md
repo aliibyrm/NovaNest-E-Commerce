@@ -16,3 +16,33 @@ Node.js Dokümantasyonu: Node.js'nin resmi dokümantasyonu, sunucu tarafı JavaS
 Udemy, Coursera gibi eğitim platformları: MERN stack ile ilgili kurslar ve eğitim materyalleri ile Nlp ile ilgili eğitimler.
 Stac Overflow ve Reddit: Sorunlarımızı çözmek ve diğer geliştiricilerle etkileşimde bulunmak için topluluk tabanlı platformlar.
 
+# Ekran Görüntüleri
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2010.39.07.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.23.10.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.24.13.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.24.51.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.25.22.png?raw=true" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.25.55.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.26.50.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.27.02.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.27.12.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.27.41.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.27.51.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.28.12.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.29.05.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.29.13.png?raw=true" alt="alt text" >
+
+<img src="https://github.com/aliibyrm/NovaNest-E-Commerce/blob/main/ScreenShots/Ekran%20Resmi%202024-01-26%2011.29.38.png?raw=true" alt="alt text" >
